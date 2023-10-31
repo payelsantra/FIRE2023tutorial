@@ -17,6 +17,17 @@ Large Language Models (LLMs) have exhibited exceptional proficiency in the realm
 * [Sudip Kumar Naskar](https://sites.google.com/site/sudipnaskar/), Jadavpur University, India
 
 # Tutorial Outline
+**Part** | **Topic** | **Presenter** | **Link to Slides**
+--- | --- | --- | ---
+1 | Introduction to NLP | Saptarshi Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/legal-text-background.pdf)
+2 | Overview of Distributional Representation Learning for NLP | Jack G. Conrad | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/history-ai-law.pdf)
+3 | Overview of Transformer based pretrained
+Language Model | Pawan Goyal | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/nlp-ir-background.pdf)
+4 | Overview of Large Language Models | Debasis Ganguly, Paheli Bhattacharya and Kripabandhu Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/sota-survey.pdf)
+5 | Concept of in-context learning and its application | Jack G. Conrad | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/industry-pov.pdf)
+6 | Future directions | Jack G. Conrad, Kripabandhu Ghosh and Saptarshi Ghosh | [Slides](https://github.com/Law-AI/ecir2023tutorial/blob/main/future-directions.pdf)
+7 | Hands-on Coding/Demo Session | Debasis Ganguly, Paheli Bhattacharya, Shounak Paul and Shubham Kumar Nigam | [JuPyter Notebook](https://github.com/Law-AI/ecir2023tutorial/blob/main/hands-on.ipynb)
+
 
 # Useful Links
 
