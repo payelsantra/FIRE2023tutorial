@@ -1,8 +1,10 @@
 # Unleashing the Power of Large Language Models: A Hands-On Tutorial
 This repository contains all detailed information and resources for our tutorial at FIRE 2023, held at University of Goa, India (Dec 2023).
 
-# About the tutorial
+# Abstract
+Large Language Models (LLMs) have exhibited exceptional proficiency in the realm of natural language processing and other domains. The effectiveness of LLMs has led to a steep rise in various research fields including both academia and industry. In this tutorial, we present the audience with an introduction to LLMs and the associated challenges. We briefly discuss certain recent publicly accessible LLMs, specifically a robust chatbot named ChatGPT, and the significant impact that the technological advancement of LLMs has had on the entire AI community. The tutorial is structured in the following manner. First, we provide  a brief preface that outlines the fundamental principles of Natural Language Processing (NLP). Following that, we explore the area of distributional representation learning for NLP. Later on, we delve into the essential component of transformer-based pretrained language models. We gradually outline the concept of prompt learning and how it replaced the pretraining and finetuning process. Then we discuss the concept of in-context learning (ICL) in LLMs, which entails making predictions based on augmented contexts with a limited number of examples and also the challenges of using LLMs. Afterward, a hands-on coding and demonstration session is carried out in a practical manner.
 
+# About the tutorial
 
 
 # Authors
