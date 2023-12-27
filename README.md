@@ -32,6 +32,6 @@ Large Language Models (LLMs) have exhibited exceptional proficiency in the realm
 
 
 # Citation Policy
-If you make using of any of these slides, notebooks, or additional PyTerrier plugins, please cite our tutorial abstract: 
+If you make using of any of these slides, notebooks, please cite our tutorial abstract: 
 
 # Feedback
