@@ -25,7 +25,7 @@ Large Language Models (LLMs) have exhibited exceptional proficiency in the realm
 4 | Overview of Large Language Models | Payel Santra | [Slides]
 5 | Concept of in-context learning and its application | Dr. Debasis Ganguly | [Slides]
 6 | Future directions | Dr. Debasis Ganguly | [Slides]
-7 | Hands-on Coding/Demo Session | Dr. Debasis Ganguly, Shrimon Mukherjee, Madhusudan Ghosh, Payel Santra |<a name="JuPyter Notebook"></a> [JuPyter Notebook](https://github.com/payelsantra/FIRE2023tutorial/tree/main/Slides)
+7 | Hands-on Coding/Demo Session | Dr. Debasis Ganguly, Shrimon Mukherjee, Madhusudan Ghosh, Payel Santra |<a name="JuPyter Notebook"></a> [JuPyter Notebook](https://github.com/payelsantra/FIRE2023tutorial/tree/main/Notebook)
 
 
 # Useful Links
