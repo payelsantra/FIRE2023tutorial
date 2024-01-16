@@ -19,12 +19,12 @@ LLMs have opened up possibilities for advancing the state-of-the-art in natural 
 # Tutorial Outline
 **Part** | **Topic** | **Presenter** | **Link to Slides**
 --- | --- | --- | ---
-1 | Introduction to NLP | Dr. Sudip Kumar Naskar | [Slides]
-2 | Overview of Distributional Representation Learning for NLP | Dr. Partha Basuchowdhuri | [Slides]
-3 | Overview of Transformer based Pretrained Language Model | Madhusudan Ghosh | [Slides]
-4 | Overview of Large Language Models | Payel Santra | [Slides]
-5 | Concept of in-context learning and its application | Dr. Debasis Ganguly | [Slides]
-6 | Future directions | Dr. Debasis Ganguly | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-ICL.pdf)
+1 | Introduction to NLP | Dr. Sudip Kumar Naskar | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-introNLP.pdf)
+2 | Overview of Distributional Representation Learning for NLP | Dr. Partha Basuchowdhuri | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-Distributional_representation.pdf)
+3 | Overview of Transformer based Pretrained Language Model | Madhusudan Ghosh | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-transformer.pdf)
+4 | Overview of Large Language Models | Payel Santra | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-LLM.pdf)
+5 | Concept of in-context learning and its application | Dr. Debasis Ganguly | [Slides](https://github.com/payelsantra/FIRE2023tutorial/blob/main/Slides/FIRE_Tutorial-ICL.pdf)
+6 | Future directions | Dr. Debasis Ganguly | 
 7 | Hands-on Coding/Demo Session | Dr. Debasis Ganguly, Shrimon Mukherjee, Madhusudan Ghosh, Payel Santra |<a name="JuPyter Notebook"></a> [JuPyter Notebook](https://github.com/payelsantra/FIRE2023tutorial/tree/main/Notebook)
 
 
